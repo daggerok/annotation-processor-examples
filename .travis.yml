@@ -1,0 +1,17 @@
+dist: xenial
+env:
+  global:
+    - TERM=dumb
+git:
+  quiet: true
+  depth: 1
+language: java
+jdk: openjdk11
+install: true
+script:
+  - ./gradlew
+  - ./mvnw
+cache:
+  directories:
+    - ~/.gradle
+    - ~/.m2
