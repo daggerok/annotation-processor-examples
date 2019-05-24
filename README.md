@@ -1,4 +1,4 @@
-# Annotation processing
+# Annotation processing [![Build Status](https://travis-ci.org/daggerok/annotation-processor-examples.svg?branch=master)](https://travis-ci.org/daggerok/annotation-processor-examples)
 Playground of annotation processing in JVM
 
 
