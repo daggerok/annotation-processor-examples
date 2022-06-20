@@ -21,7 +21,7 @@
       mvn versions:display-dependency-updates
       mvn versions:display-plugin-updates
     -->
-    <kotlin.version>1.3.31</kotlin.version>
+    <kotlin.version>1.6.0</kotlin.version>
     <kotlin.code.style>official</kotlin.code.style>
     <junit.version>4.13-beta-3</junit.version>
     <junit-jupiter.version>5.5.0-M1</junit-jupiter.version>
